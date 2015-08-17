@@ -1,0 +1,205 @@
+#NAME IPTV
+#SERVICE 1:64:1:0:0:0:0:0:0:0::-------- On Demand --------
+#DESCRIPTION -------- On Demand --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/SpongeBob.Fuori.Dall.Acqua.MD.2015.iTALiAN.AAC.x264.MP4-SPC.mp4?user=U1037&pass=nht6554:SpongeBob.Fuori.Dall.Acq
+#DESCRIPTION SpongeBob.Fuori.Dall.Acq
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Taken.3.L.Ora.Della.Verita.MD.2014.iTALiAN.AAC.h264.MP4-SPC.mp4?user=U1037&pass=nht6554:L.Ora.Della.Verita.MD.20
+#DESCRIPTION L.Ora.Della.Verita.MD.20
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Un.Fantasma.Per.Amico.2013.iTALiAN.md.webdl.xvid-free-1.mp4?user=U1037&pass=nht6554:Un.Fantasma.Per.Amico
+#DESCRIPTION Un.Fantasma.Per.Amico
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Turner.2014.MD.iTALiAN.AAC.h264.MP4-SPC.mp4?user=U1037&pass=nht6554:Turner.2014
+#DESCRIPTION Turner.2014
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Vizio.Di.Forma.MD.2014.iTALiAN.AAC.h264.MP4-SPC.mp4?user=U1037&pass=nht6554:Vizio.Di.Forma.MD.2014
+#DESCRIPTION Vizio.Di.Forma.MD.2014
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Forza.Maggiore.MD.2014.iTALiAN.AAC.x264.MP4-SPC.mp4?user=U1037&pass=nht6554:Forza.Maggiore.MD.2014
+#DESCRIPTION Forza.Maggiore.MD.2014
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Focus.Niente.E.Come.Sembra.MD.2015.iTALiAN.iTALiAN.AAC.h264.MP4-SPC.mp4?user=U1037&pass=nht6554:Focus Niente E Come Semb
+#DESCRIPTION Focus Niente E Come Semb
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Black.Sea.MD.2014.iTALiAN.iTALiAN.AAC.x264.MP4-SPC.mp4?user=U1037&pass=nht6554:Black Sea MD 2014
+#DESCRIPTION Black Sea MD 2014
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Avengers.Age.Of.Ultron.MD.2015.iTALiAN.AAC.x264.MP4-SPC.mp4?user=U1037&pass=nht6554:ultron MD
+#DESCRIPTION ultron MD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Adaline.L.Eterna.Giovinezza.MD.2015.iTALiAN.AAC.x264.MP4-SPC.mp4?user=U1037&pass=nht6554:eterna giovinezza 2015
+#DESCRIPTION eterna giovinezza 2015
+#SERVICE 1:64:2:0:0:0:0:0:0:0::--------------- News--------------
+#DESCRIPTION --------------- News--------------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000:News 12 Long Island
+#DESCRIPTION News 12 Long Island
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000:News 12 Bronx
+#DESCRIPTION News 12 Bronx
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000:News 12 Brooklyn
+#DESCRIPTION News 12 Brooklyn
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000:News 12 Connecticut
+#DESCRIPTION News 12 Connecticut
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000:News 12 Hudson Valley
+#DESCRIPTION News 12 Hudson Valley
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000:News 12 Long Island
+#DESCRIPTION News 12 Long Island
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000:News 12 New Jersey
+#DESCRIPTION News 12 New Jersey
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000:News 12 Westchester
+#DESCRIPTION News 12 Westchester
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//109.206.96.129/live/kcn2_1m.stream:SERBIA
+#DESCRIPTION SERBIA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//178.16.220.163/live/t2vnaa:TVN
+#DESCRIPTION TVN
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//ingress2.cdn.mind.ee%3A1935/kanal2_live/_definst_/live_1:CAN 2
+#DESCRIPTION CAN 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//83.169.58.36/live/Stream3:Club700.TV
+#DESCRIPTION Club700.TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//145.255.192.8%3A1935/live/stream:EK
+#DESCRIPTION EK
+#SERVICE 1:64:3:0:0:0:0:0:0:0::-------- Bambini --------
+#DESCRIPTION -------- Bambini --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/063051FrenchRarebitMmBr.mp4:French Rarebit
+#DESCRIPTION French Rarebit
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4:Rabbit Fire
+#DESCRIPTION Rabbit Fire
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/051956TreeCorneredTweetyMmOpening_1.mp4:Tree Cornered Tweety
+#DESCRIPTION Tree Cornered Tweety
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/052353MuchAdoAboutNuttingMm_1.mp4:Much Ado About Nutting
+#DESCRIPTION Much Ado About Nutting
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/052452BeepBeepMmBr_1.mp4:Beep Beep
+#DESCRIPTION Beep Beep
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/052750AnEggScrambleMmBr.mp4:An Egg Scramble
+#DESCRIPTION An Egg Scramble
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/052767TheMusicMice-troMmCnOpening_1.mp4:The Music Mice-tro
+#DESCRIPTION The Music Mice-tro
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/060251RoomAndBirdMmBr.mp4:Room And Bird
+#DESCRIPTION Room And Bird
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/060449BoweryBugsMmBr.mp4:Bowery Bugs
+#DESCRIPTION Bowery Bugs
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/060455TweetysCircusMm_1.mp4:Tweetys Circus
+#DESCRIPTION Tweetys Circus
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/062053HareTrimmedMm_1.mp4:Hare Trimmed
+#DESCRIPTION Hare Trimmed
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/062152AintSheTweetLtBr_1.mp4:Aint She Tweet
+#DESCRIPTION Aint She Tweet
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/062450AllABir-r-r-dLtBr.mp4:All A Bir-r-r-d
+#DESCRIPTION All A Bir-r-r-d
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/062654MuzzleToughMm_1.mp4:Muzzle Tough
+#DESCRIPTION Muzzle Tough
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//archive.org/download/VintageCartoonsSet2MP4/062764HawaiianAyeAyeMm_1.mp4:Hawaiian Aye Aye
+#DESCRIPTION Hawaiian Aye Aye
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.mb-sat.ch%3A1935/vod2//vod/Film_al_Cinema/Cenerentola.LD.2015.iTALiAN.AAC-x264.MP4-SPC.mp4?user=U1037&pass=nht6554:Cenerentola
+#DESCRIPTION Cenerentola
+#SERVICE 1:64:4:0:0:0:0:0:0:0::-------- General --------
+#DESCRIPTION -------- General --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vs2.streamcaster.net/test_live/canale46 :Canale 46
+#DESCRIPTION Canale 46
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//stream.smcloud.net/live/eskatv:Eskatv
+#DESCRIPTION Eskatv
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//la6.stream.internetone.it/streaming/la6.stream:LA 6
+#DESCRIPTION LA 6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//livestream.zeelandnet.nl/live/omroepzeeland_tv_200k.sdp:Omroep Zeeland TV
+#DESCRIPTION Omroep Zeeland TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//s1.streamnet.ro%3A8047/stream.flv:SOMES TV
+#DESCRIPTION SOMES TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//91.121.222.160/teleboariotb/teleboario.sdp:teleboario
+#DESCRIPTION teleboario
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//flash0.15561-live0.dna.qbrick.com/15561-live0/live1:TV Haugaland
+#DESCRIPTION TV Haugaland
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//vod.tv7.fi/tv7plus-web/_definst_/mp4%3Atv7plus.stream_360p :TV7 Plus (Finland)
+#DESCRIPTION TV7 Plus (Finland)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//live.vizionplus.tv/live//livestream2 :Vizionplus
+#DESCRIPTION Vizionplus
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//cdn-kanal10.crossnet.net/kanal10/mpegts.stream:Kanal 10 &Auml;lmhult (Sweden
+#DESCRIPTION Kanal 10 &Auml;lmhult (Sweden
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//live.tvmidtvest.dk/tvmv/live:TV MV (Sweden)
+#DESCRIPTION TV MV (Sweden)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//livestream2.fynskemedier.dk%3A1935/live/_definst_/tv2lorry_1000:TV2 Lorry (Sweden)
+#DESCRIPTION TV2 Lorry (Sweden)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//livestream2.fynskemedier.dk%3A1935/live/_definst_/tv2nord-plus_1000:TV2 Nord (Sweden)
+#DESCRIPTION TV2 Nord (Sweden)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//livestream2.fynskemedier.dk%3A1935/live/_definst_/tvsyd_1000:TVS+ (Sweden)
+#DESCRIPTION TVS+ (Sweden)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//stream1.lifestyletv.se/live/livestream1:lifestyleTV (Sweden)
+#DESCRIPTION lifestyleTV (Sweden)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//cdn-kanal10.crossnet.net/kanal10//mpegts.stream:kanal10 (Sweden)
+#DESCRIPTION kanal10 (Sweden)
+#SERVICE 1:64:5:0:0:0:0:0:0:0::-------- Musica --------
+#DESCRIPTION -------- Musica --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fms.105.net/live/105Test1:105-TV
+#DESCRIPTION 105-TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//109.239.142.62/live/livestream3:1HDMusic
+#DESCRIPTION 1HDMusic
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//fms.105.net/live/rmc1:Montecarlo Music
+#DESCRIPTION Montecarlo Music
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//cwedge.cdcache.net/cwedge/rilive :Radio-Italia-Tv
+#DESCRIPTION Radio-Italia-Tv
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//www.electrosound.tv%3A1935/public/stream :ElectoSound TV
+#DESCRIPTION ElectoSound TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//wowza1.top-ix.org/quartaretetv1/formusicweb :ForMusic TV
+#DESCRIPTION ForMusic TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//stream.smcloud.net/live2/best/best_720p :best-music
+#DESCRIPTION best-music
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//tst.es.flash.glb.ipercast.net/tst.es-live/live:Kiss-tv
+#DESCRIPTION Kiss-tv
+#SERVICE 1:64:6:0:0:0:0:0:0:0::-------- Erotic --------
+#DESCRIPTION -------- Erotic --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtsp%3A//46.249.213.87/broadcast/bellaluz-tablet.3gp:BELLAclub
+#DESCRIPTION BELLAclub
+#SERVICE 1:64:7:0:0:0:0:0:0:0::-------- Sport --------
+#DESCRIPTION -------- Sport --------
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg1livefs.fplive.net/hwg1live-live/stream2:Sportube hq 1
+#DESCRIPTION Sportube hq 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg1livefs.fplive.net/hwg1live-live/stream1:Sportube lq 1
+#DESCRIPTION Sportube lq 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg2livefs.fplive.net/hwg2live-live/stream2:Sportube hq 2
+#DESCRIPTION Sportube hq 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg2livefs.fplive.net/hwg2live-live/stream1:Sportube lq 2
+#DESCRIPTION Sportube lq 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg3livefs.fplive.net/hwg3live-live/stream2:Sportube hq 3
+#DESCRIPTION Sportube hq 3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg3livefs.fplive.net/hwg3live-live/stream1:Sportube lq 3
+#DESCRIPTION Sportube lq 3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg4livefs.fplive.net/hwg4live-live/stream2:Sportube hq 4
+#DESCRIPTION Sportube hq 4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg4livefs.fplive.net/hwg4live-live/stream1:Sportube lq 4
+#DESCRIPTION Sportube lq 4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg5livefs.fplive.net/hwg5live-live/stream2:Sportube hq 5
+#DESCRIPTION Sportube hq 5
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg5livefs.fplive.net/hwg5live-live/stream1:Sportube lq 5
+#DESCRIPTION Sportube lq 5
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg6livefs.fplive.net/hwg6live-live/stream2:Sportube hq 6
+#DESCRIPTION Sportube hq 6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg6livefs.fplive.net/hwg6live-live/stream1:Sportube lq 6
+#DESCRIPTION Sportube lq 6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg7livefs.fplive.net/hwg7live-live/stream2:Sportube hq 7
+#DESCRIPTION Sportube hq 7
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg7livefs.fplive.net/hwg7live-live/stream1:Sportube lq 7
+#DESCRIPTION Sportube lq 7
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg8livefs.fplive.net/hwg8live-live/stream2:Sportube hq 8
+#DESCRIPTION Sportube hq 8
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg8livefs.fplive.net/hwg8live-live/stream1:Sportube lq 8
+#DESCRIPTION Sportube lq 8
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg9livefs.fplive.net/hwg9live-live/stream2:Sportube hq 9
+#DESCRIPTION Sportube hq 9
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg9livefs.fplive.net/hwg9live-live/stream1:Sportube lq 9
+#DESCRIPTION Sportube lq 9
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg10livefs.fplive.net/hwg10live-live/stream2:Sportube hq 10
+#DESCRIPTION Sportube hq 10
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//hwg10livefs.fplive.net/hwg10live-live/stream1":Sportube lq 10
+#DESCRIPTION Sportube lq 10
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh:HISPAN TV
+#DESCRIPTION HISPAN TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//stream.sportstv.com.tr/sportstv/SportsTV3:Sports TV
+#DESCRIPTION Sports TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtsp%3A//46.249.213.93/broadcast/drift4ever-tablet.3gp:Drift 4 Ever
+#DESCRIPTION Drift 4 Ever
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc:SEVILLA FC
+#DESCRIPTION SEVILLA FC
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel1_1200:SPORT TIME TV 1HD
+#DESCRIPTION SPORT TIME TV 1HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel2_1200:SPORT TIME TV 2HD
+#DESCRIPTION SPORT TIME TV 2HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel3_800:SPORT TIME TV 3HD
+#DESCRIPTION SPORT TIME TV 3HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel4_800:SPORT TIME TV 4HD
+#DESCRIPTION SPORT TIME TV 4HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel5_800:SPORT TIME TV 5HD
+#DESCRIPTION SPORT TIME TV 5HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel6_800:SPORT TIME TV 6HD
+#DESCRIPTION SPORT TIME TV 6HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3A//streamer.a1.net%3A1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4%3Achannel7_1200:SPORT TIME TV7 HQ
+#DESCRIPTION SPORT TIME TV7 HQ
